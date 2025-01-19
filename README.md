@@ -13,3 +13,6 @@ The relevant data for knowledge base construction and downstream applications ca
   - mm_concept_base: `mm_concept_base.zip`
   - test: `test.zip`
   - model_answers: `model_answers.zip`
+
+
+The data for **M<sup>2</sup>ConceptBase** is contained in `m2conceptbase_data.zip`, with the images encoded in Base64 format.
